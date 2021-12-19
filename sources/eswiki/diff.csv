@@ -1,19 +1,19 @@
 @@,wdid,name,position
+->,Q96276487,Omar Paganini,"NULL->Industria, Energía y Minería"
+->,Q87157116,Daniel Salinas,NULL->Salud Pública
+->,Q76823104,Adrián Peña,ministro de Ambiente de Uruguay->Ambiente
+->,Q72980918,Irene Moreira,NULL->Vivienda y Ordenamiento Territorial
 ->,Q6800406,Luis Lacalle Pou,Presidente de Uruguay->Presidente de la República
-+++,Q96276487,Omar Paganini,"Industria, Energía y Minería"
-+++,Q87157116,Daniel Salinas,Salud Pública
-+++,Q76823104,Adrián Peña,Ambiente
-+++,Q72980918,Irene Moreira,Vivienda y Ordenamiento Territorial
-+++,Q6700272,Luis Alberto Heber,Interior
-+++,Q6436401,Francisco Bustillo,Relaciones Exteriores
-+++,Q5920552,Isaac Alfie,Planeamiento y Presupuesto
-+++,Q5724101,Beatriz Argimón,Vicepresidenta
-+++,Q42392625,Pablo Da Silveira,Educación y Cultura
-+++,Q41777347,Martín Lema,Desarrollo Social
-+++,Q3163146,Javier García,Ministerio de Defensa Nacional
-+++,Q26727956,Álvaro Delgado,Secretario de la Presidencia
-+++,Q17622167,Azucena Arbeleche,Economía y Finanzas
-+++,Q1709330,José Luis Falero,Transporte y Obras Públicas
-+++,Q1688988,Pablo Mieres,Trabajo y Seguridad Social
-+++,Q1621502,Tabaré Viera,Turismo
-+++,Q107365095,Fernando Mattos,"Ganadería, Agricultura y Pesca"
+->,Q6700272,Luis Alberto Héber->Luis Alberto Heber,Ministro del Interior de Uruguay->Interior
+->,Q6436401,Francisco Bustillo,Ministro de Relaciones Exteriores->Relaciones Exteriores
+->,Q5920552,Isaac Alfie,NULL->Planeamiento y Presupuesto
+->,Q5724101,Beatriz Argimón,Vicepresidente de Uruguay->Vicepresidenta
+->,Q42392625,Pablo da Silveira->Pablo Da Silveira,Ministro de Educación y Cultura de Uruguay->Educación y Cultura
+->,Q41777347,Martín Lema,ministro de Desarrollo Social de Uruguay->Desarrollo Social
+->,Q3163146,Javier García Duchini->Javier García,Ministro de Defensa Nacional de Uruguay->Ministerio de Defensa Nacional
+->,Q26727956,Álvaro Delgado Ceretta->Álvaro Delgado,Secretario de Presidencia de Uruguay->Secretario de la Presidencia
+->,Q17622167,Azucena Arbeleche,NULL->Economía y Finanzas
+->,Q1709330,José Luis Falero,NULL->Transporte y Obras Públicas
+->,Q1688988,Pablo Mieres,Ministro de Trabajo y Seguridad Social (Uruguay)->Trabajo y Seguridad Social
+->,Q1621502,Tabaré Viera,NULL->Turismo
+->,Q107365095,Fernando Mattos Costa->Fernando Mattos,"NULL->Ganadería, Agricultura y Pesca"

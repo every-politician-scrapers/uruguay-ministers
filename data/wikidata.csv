@@ -1,1 +1,19 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
+wdid,name,wdLabel,source,sourceDate,pid,position,start,psid
+Q107365095,Fernando Mattos Costa,Fernando Mattos Costa,,,Q110192555,"Minister of Livestock, Agriculture, and Fisheries (Uruguay)",2021-06-27,Q107365095-2CA08D49-3C1E-4CEF-B312-56F8B9226B72
+Q1621502,Tabaré Viera,Tabaré Viera,,,Q110192575,Minister of Tourism (Uruguay),2021-08-23,Q1621502-9BEE1B08-AFBE-484E-8062-9F832BDB3835
+Q1688988,Pablo Mieres,Pablo Mieres,,,Q100899300,Minister of Labour and Social Welfare (Uruguay),2020-03-01,Q1688988-E317745F-76D2-4A9A-8BA3-182EB12C36D9
+Q1709330,José Luis Falero,José Luis Falero,,,Q110192573,Minister of Transport and Public Works,2021-05-25,Q1709330-770B7552-F3BB-457F-AA96-65304657E2A1
+Q17622167,Azucena Arbeleche,Azucena Arbeleche,,,Q110192550,Minister of Economy and Finance (Uruguay),2020-03-01,Q17622167-A021CA5D-786D-4D99-BEA2-3922341875F5
+Q26727956,Álvaro Delgado Ceretta,Álvaro Delgado Ceretta,,,Q6123145,Secretary of the Presidency,2020-03-01,Q26727956-1AEEF1D7-634A-438C-9ABD-AED10A0738E3
+Q3163146,Javier García Duchini,Javier García Duchini,,,Q106548938,Minister of National Defence of Uruguay,2020-03-01,Q3163146-4FCE35C6-446B-4107-A415-C9EE6E3E3F23
+Q41777347,Martín Lema,Martín Lema,,,Q98826754,minister of Social Development,2021-05-03,Q41777347-AD57B590-43A2-4C35-9595-11DB7A5AFD36
+Q42392625,Pablo da Silveira,Pablo da Silveira,,,Q20006803,Minister of Education and Culture of Uruguay,2020-03-01,Q42392625-3B2A4C45-F4E8-4F4D-A5FC-A04C0D213FAB
+Q5724101,Beatriz Argimón,Beatriz Argimón,,,Q3773222,Vice President of Uruguay,2020-03-01,Q5724101-1a7ec856-4096-f21f-24f7-320e416145db
+Q5920552,Isaac Alfie,Isaac Alfie,,,Q110192665,Director of the Office of Planning and Budget,2020-03-01,Q5920552-028F4A8A-872E-46DD-BE74-391505CF4632
+Q6436401,Francisco Bustillo,Francisco Bustillo,,,Q58282135,minister of Foreign Relations,2020-07-06,Q6436401-855E998A-58C3-4017-8C85-F08C2BE01BBA
+Q6700272,Luis Alberto Héber,Luis Alberto Héber,,,Q106943362,Minister of the Interior of Uruguay,2021-05-24,Q6700272-1E23AEC9-30B7-449E-B5AF-C882670C411D
+Q6800406,Luis Lacalle Pou,Luis Lacalle Pou,,,Q4524807,President of Uruguay,2020-03-01,Q6800406-052b257b-43c8-1baf-63ea-f0f1fcd67269
+Q72980918,Irene Moreira,Irene Moreira,,,Q110192581,"Minister of Housing, Territorial Planning and Environment of Uruguay",2020-03-01,Q72980918-C65FC4EF-AAC7-49E0-BD3A-BB634088D1E6
+Q76823104,Adrián Peña,Adrián Peña,https://www.elobservador.com.uy/nota/rodeado-de-colorados-al-aire-libre-y-en-la-villa-del-agua--20208272170,2020-09-01,Q98826748,Minister of the Environment of Uruguay,2020-08-27,Q76823104-87e00798-40c2-a7f7-7c7d-e1c9d85daea2
+Q87157116,Daniel Salinas,Daniel Salinas,,,Q110192563,Minister of Public Health (Uruguay),2020-03-01,Q87157116-17002682-4278-485B-B542-5CFF268D17F5
+Q96276487,Omar Paganini,Omar Paganini,,,Q110192557,"Minister of Industry, Energy and Mining (Uruguay)",2020-03-01,Q96276487-08011A2C-664A-492E-B605-4BB14D5B3B74
