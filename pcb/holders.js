@@ -9,7 +9,7 @@ module.exports = (...positions) => {
           ?person wdt:P31 wd:Q5 ; p:P39 ?ps .
           ?ps ps:P39 ?position .
           FILTER NOT EXISTS { ?ps wikibase:rank wikibase:DeprecatedRank }
-          OPTIONAL { ?person wdt:P570 ?dod }
+          OPTIONAL { ?person p:P570 [ a wikibase:BestRank ; psv:P570 ?dod ] }
           OPTIONAL { ?ps pqv:P580 ?p39start }
           OPTIONAL { ?ps pqv:P582 ?p39end }
           OPTIONAL {
@@ -64,6 +64,6 @@ module.exports = (...positions) => {
       )
     }
     # ${new Date().toISOString()}
-    ORDER BY ?position ?person ?start ?ps`
+    ORDER BY ?position ?person ?start ?end ?ps`
 }
 

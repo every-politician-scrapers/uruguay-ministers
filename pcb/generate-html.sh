@@ -121,20 +121,26 @@ if [ ${#warnings[@]} -gt 0 ]; then
   printf '* %s\n' "${warnings[@]}"
 fi
 
-warnings=($(qsv join --left-anti prev $EXTD_21 personID html/holders21.csv | qsv search -s start "^2" | qsv search -s prev . | qsv select prev,position,start,personID | qsv sort -s start -R | qsv behead | qsv table))
+warnings=($(qsv join --left-anti prev $EXTD_21 id $BIO_CSV | qsv search -s start "^2" | qsv search -s prev . | qsv select prev,position,start,personID | qsv sort -s start -R | qsv behead | qsv table))
 if [ ${#warnings[@]} -gt 0 ]; then
   echo "## Missing predecessors:"
-  printf '* %s\n' "${warnings[@]}"
+  echo '```'
+  printf '%s\n' "${warnings[@]}"
+  echo '```'
 fi
 
-warnings=($(qsv join --left-anti next $EXTD_21 personID html/holders21.csv | qsv search -s next . | qsv select next,position,end,personID | qsv sort -s end -R | qsv behead | qsv table))
+warnings=($(qsv join --left-anti next $EXTD_21 id $BIO_CSV | qsv search -s next . | qsv select next,position,end,personID | qsv sort -s end -R | qsv behead | qsv table))
 if [ ${#warnings[@]} -gt 0 ]; then
   echo "## Missing successors:"
-  printf '* %s\n' "${warnings[@]}"
+  echo '```'
+  printf '%s\n' "${warnings[@]}"
+  echo '```'
 fi
 
-warnings=($(qsv join position $ENUM_PS position $UNDATED | qsv sort -R -s birth | qsv sort -N -s index | qsv select title,person,personLabel,birth,death | qsv behead | qsv table))
+warnings=($(qsv join --left-anti person $UNDATED  id $BIO_CSV | qsv join position $ENUM_PS position - | qsv sort -R -s birth | qsv sort -N -s index | qsv select title,person,personLabel,birth,death | qsv behead | qsv table))
 if [ ${#warnings[@]} -gt 0 ]; then
   echo "## Undated:"
-  printf '* %s\n' "${warnings[@]}"
+  echo '```'
+  printf '%s\n' "${warnings[@]}"
+  echo '```'
 fi
