@@ -1,0 +1,203 @@
+{
+  "title": "Javier García Duchini",
+  "pageID": 52322540,
+  "categories": [
+    "Living people",
+    "1963 births",
+    "Uruguayan people of Spanish descent",
+    "Uruguayan people of Italian descent",
+    "University of the Republic (Uruguay) alumni",
+    "Uruguayan pediatricians",
+    "National Party (Uruguay) politicians",
+    "Defence ministers of Uruguay"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Javier Fernando García Duchini (born 28 November 1963 in Montevideo) is a Uruguayan physician and politician from the National Party, serving as Minister of National Defense since 1 March 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Montevideo"
+                },
+                {
+                  "text": "National Party",
+                  "type": "internal",
+                  "page": "National Party (Uruguay)"
+                },
+                {
+                  "text": "Minister of National Defense",
+                  "type": "internal",
+                  "page": "Ministry of National Defense (Uruguay)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Javier Fernando García Duchini"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Graduated from the Faculty of Medicine of the University of the Republic in 1991 with the title of doctor of medicine.",
+              "links": [
+                {
+                  "text": "University of the Republic",
+                  "type": "internal",
+                  "page": "University of the Republic (Uruguay)"
+                }
+              ]
+            },
+            {
+              "text": "He began his specialization in pediatrics."
+            },
+            {
+              "text": "He was elected Representative on several occasions: 1994, 2004, 2009."
+            },
+            {
+              "text": "In 2014 he was elected Senator."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "García",
+            "Duchini"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "year": "1963",
+          "month": "11",
+          "day": "28",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Javier García"
+          },
+          "termstart": {
+            "text": "1 March 2020"
+          },
+          "term_start3": {
+            "text": "15 February 2005"
+          },
+          "office3": {
+            "text": "Representative of Uruguay\nfor Montevideo",
+            "links": [
+              {
+                "text": "Representative of Uruguay",
+                "type": "internal",
+                "page": "Chamber of Representatives of Uruguay"
+              },
+              {
+                "text": "Montevideo",
+                "type": "internal",
+                "page": "Montevideo Department"
+              }
+            ]
+          },
+          "termend2": {
+            "text": "1 March 2020"
+          },
+          "termstart2": {
+            "text": "15 February 2015"
+          },
+          "office2": {
+            "text": "Senator of Uruguay",
+            "links": [
+              {
+                "text": "Senator of Uruguay",
+                "type": "internal",
+                "page": "Senate of Uruguay"
+              }
+            ]
+          },
+          "president": {
+            "text": "Luis Lacalle Pou",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Luis Lacalle Pou"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "José Bayardi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "José Bayardi"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Defense of Uruguay",
+            "links": [
+              {
+                "text": "Minister of Defense of Uruguay",
+                "type": "internal",
+                "page": "Ministry of National Defense (Uruguay)"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "November 28, 1963"
+          },
+          "children": {
+            "text": "Belén, Alfonso, Delfina"
+          },
+          "spouse": {
+            "text": "Rosana Supparo"
+          },
+          "occupation": {
+            "text": "Doctor and politician"
+          },
+          "alma_mater": {
+            "text": "University of the Republic",
+            "links": [
+              {
+                "text": "University of the Republic",
+                "type": "internal",
+                "page": "University of the Republic (Uruguay)"
+              }
+            ]
+          },
+          "party": {
+            "text": "National Party",
+            "links": [
+              {
+                "text": "National Party",
+                "type": "internal",
+                "page": "National Party (Uruguay)"
+              }
+            ]
+          },
+          "image": {
+            "text": "Acto Colón Garcìa 2014 cropped.jpg"
+          },
+          "birth_name": {
+            "text": "Javier Fernando García Duchini"
+          },
+          "term_end3": {
+            "text": "15 February 2015"
+          }
+        }
+      ]
+    }
+  ]
+}

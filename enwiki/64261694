@@ -1,0 +1,141 @@
+{
+  "title": "Pablo Da Silveira",
+  "pageID": 64261694,
+  "categories": [
+    "Université catholique de Louvain alumni",
+    "National Party (Uruguay) politicians",
+    "Uruguayan philosophers",
+    "Uruguayan writers",
+    "1962 births",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Pablo da Silveira García (born 21 September 1962 in Montevideo) is a Uruguayan writer, lecturer, philosopher, and politician of the National Party (PN), serving as Minister of Education and Culture of Uruguay, since March 1, 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Montevideo"
+                },
+                {
+                  "text": "Uruguayan",
+                  "type": "internal",
+                  "page": "Uruguay"
+                },
+                {
+                  "text": "National Party",
+                  "type": "internal",
+                  "page": "National Party (Uruguay)"
+                },
+                {
+                  "text": "Minister of Education and Culture of Uruguay",
+                  "type": "internal",
+                  "page": "Ministry of Education and Culture (Uruguay)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Pablo da Silveira García"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Uruguayan writer, philosopher and politician",
+          "template": "short description"
+        },
+        {
+          "year": "1962",
+          "month": "09",
+          "day": "21",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Pablo da Silveira"
+          },
+          "image": {
+            "text": "Dasilveira.jpg"
+          },
+          "caption": {
+            "text": "Pablo da Silveira in 2020."
+          },
+          "office": {
+            "text": "Minister of Education and Culture of Uruguay",
+            "links": [
+              {
+                "text": "Minister of Education and Culture of Uruguay",
+                "type": "internal",
+                "page": "Ministry of Education and Culture (Uruguay)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 March 2020"
+          },
+          "president": {
+            "text": "Luis Alberto Lacalle Pou",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Luis Alberto Lacalle Pou"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "María Julia Muñoz",
+            "links": [
+              {
+                "type": "internal",
+                "page": "María Julia Muñoz"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "September 21, 1962"
+          },
+          "birth_place": {
+            "text": "Montevideo, Uruguay",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Montevideo"
+              }
+            ]
+          },
+          "party": {
+            "text": "National Party",
+            "links": [
+              {
+                "text": "National Party",
+                "type": "internal",
+                "page": "National Party (Uruguay)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Université catholique de Louvain",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Université catholique de Louvain"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

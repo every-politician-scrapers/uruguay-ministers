@@ -1,0 +1,238 @@
+{
+  "title": "Martín Lema",
+  "pageID": 63140981,
+  "categories": [
+    "1982 births",
+    "Living people",
+    "People from Montevideo",
+    "National Party (Uruguay) politicians",
+    "Presidents of the Chamber of Representatives of Uruguay",
+    "Uruguayan lawyers",
+    "Members of the Chamber of Representatives of Uruguay",
+    "Ministers of Social Development of Uruguay"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Martín Alejandro Lema Perretta (born September 6, 1982) is a Uruguayan lawyer and politician of the National Party, serving as Minister of Social Development since May 3, 2021.",
+              "links": [
+                {
+                  "text": "National Party",
+                  "type": "internal",
+                  "page": "National Party (Uruguay)"
+                },
+                {
+                  "text": "Minister of Social Development",
+                  "type": "internal",
+                  "page": "Ministry of Social Development (Uruguay)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Martín Alejandro Lema Perretta"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Graduated from the University of the Republic, he served as Representative between 2015 and 2020.",
+              "links": [
+                {
+                  "text": "University of the Republic",
+                  "type": "internal",
+                  "page": "University of the Republic (Uruguay)"
+                },
+                {
+                  "text": "Representative",
+                  "type": "internal",
+                  "page": "Chamber of Representatives of Uruguay"
+                }
+              ]
+            },
+            {
+              "text": "And from February 15, 2020, he served President of the Chamber of Representatives.",
+              "links": [
+                {
+                  "text": "Chamber of Representatives",
+                  "type": "internal",
+                  "page": "Chamber of Representatives of Uruguay"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Uruguayan lawyer and politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Lema",
+            "Perretta"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "year": "1982",
+          "month": "09",
+          "day": "06",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "15.02.20_-_Apertura_XLIX_CRR_0820.jpg"
+          },
+          "alma_mater": {
+            "text": "University of the Republic",
+            "links": [
+              {
+                "text": "University of the Republic",
+                "type": "internal",
+                "page": "University of the Republic (Uruguay)"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Representative of Uruguay\nfor Montevideo",
+            "links": [
+              {
+                "text": "Representative of Uruguay",
+                "type": "internal",
+                "page": "Chamber of Representatives of Uruguay"
+              },
+              {
+                "text": "Montevideo",
+                "type": "internal",
+                "page": "Montevideo Department"
+              }
+            ]
+          },
+          "office1": {
+            "text": "President of the Chamber of Representatives of Uruguay",
+            "links": [
+              {
+                "text": "President of the Chamber of Representatives of Uruguay",
+                "type": "internal",
+                "page": "List of presidents of the Chamber of Representatives of Uruguay"
+              }
+            ]
+          },
+          "succeeded1": {
+            "text": "Alfredo Fratti"
+          },
+          "predecessor1": {
+            "text": "Cecilia Bottino",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cecilia Bottino"
+              }
+            ]
+          },
+          "termend1": {
+            "text": "1 March 2021"
+          },
+          "termstart1": {
+            "text": "15 February 2020"
+          },
+          "termstart2": {
+            "text": "15 February 2015"
+          },
+          "occupation": {
+            "text": "Lawyer and politician"
+          },
+          "party": {
+            "text": "National Party",
+            "links": [
+              {
+                "text": "National Party",
+                "type": "internal",
+                "page": "National Party (Uruguay)"
+              }
+            ]
+          },
+          "caption": {
+            "text": "Martín Lema in 2020."
+          },
+          "name": {
+            "text": "Martín Lema"
+          },
+          "office": {
+            "text": "Minister of Social Development of Uruguay",
+            "links": [
+              {
+                "text": "Minister of Social Development of Uruguay",
+                "type": "internal",
+                "page": "Ministry of Social Development (Uruguay)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "3 May 2021"
+          },
+          "president": {
+            "text": "Luis Lacalle Pou",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Luis Lacalle Pou"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Uruguayan",
+            "links": [
+              {
+                "text": "Uruguayan",
+                "type": "internal",
+                "page": "Uruguay"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Pablo Bartol",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pablo Bartol"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "September 6, 1982"
+          },
+          "birth_place": {
+            "text": "Montevideo, Uruguay",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Montevideo"
+              },
+              {
+                "type": "internal",
+                "page": "Uruguay"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Martín Alejandro Lema Peretta"
+          }
+        }
+      ]
+    }
+  ]
+}

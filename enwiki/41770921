@@ -1,0 +1,224 @@
+{
+  "title": "Isaac Alfie",
+  "pageID": 41770921,
+  "categories": [
+    "1962 births",
+    "People from Montevideo",
+    "University of the Republic (Uruguay) alumni",
+    "Uruguayan economists",
+    "Jewish Uruguayan politicians",
+    "Colorado Party (Uruguay) politicians",
+    "Ministers of Economics and Finance of Uruguay",
+    "Universidad ORT Uruguay faculty",
+    "University of Montevideo faculty",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Isaac Alfie Stochek (born 27 April 1962) is a Uruguayan economist, accountant and politician of the Colorado Party, serving as head of the Office of Planning and Budget since 1 March 2020.",
+              "links": [
+                {
+                  "text": "Uruguayan",
+                  "type": "internal",
+                  "page": "Uruguay"
+                },
+                {
+                  "text": "Colorado Party",
+                  "type": "internal",
+                  "page": "Colorado Party (Uruguay)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Office of Planning and Budget"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Isaac Alfie Stochek"
+                ]
+              }
+            },
+            {
+              "text": "He previously served as Minister of Economy and Finance during the final years of Jorge Batlle's presidential term (2003-2005).",
+              "links": [
+                {
+                  "text": "Minister of Economy and Finance",
+                  "type": "internal",
+                  "page": "Ministry of Economy and Finance (Uruguay)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jorge Batlle"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "December 2017",
+          "template": "blp sources"
+        },
+        {
+          "list": [
+            "Isaac Alfie"
+          ],
+          "date": "January 2014",
+          "template": "expand spanish"
+        },
+        {
+          "year": "1962",
+          "month": "4",
+          "day": "27",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Isaac Alfie"
+          },
+          "image": {
+            "text": "Alfieisaac.jpg"
+          },
+          "imagesize": {
+            "text": "180",
+            "number": 180
+          },
+          "order": {
+            "text": "Director of the Office of Planning and Budget",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Office of Planning and Budget"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 March 2020"
+          },
+          "predecessor": {
+            "text": "Álvaro García Rodríguez",
+            "links": [
+              {
+                "text": "Álvaro García Rodríguez",
+                "type": "internal",
+                "page": "Álvaro García Rodríguez"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "April 27, 1962"
+          },
+          "birth_place": {
+            "text": "Montevideo, Uruguay",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Montevideo"
+              },
+              {
+                "type": "internal",
+                "page": "Uruguay"
+              }
+            ]
+          },
+          "party": {
+            "text": "Colorado",
+            "links": [
+              {
+                "text": "Colorado",
+                "type": "internal",
+                "page": "Colorado Party (Uruguay)"
+              }
+            ]
+          },
+          "profession": {
+            "text": "accountant, economist",
+            "links": [
+              {
+                "text": "accountant",
+                "type": "internal",
+                "page": "accountant"
+              },
+              {
+                "text": "economist",
+                "type": "internal",
+                "page": "economist"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of the Republic",
+            "links": [
+              {
+                "text": "University of the Republic",
+                "type": "internal",
+                "page": "University of the Republic (Uruguay)"
+              }
+            ]
+          },
+          "order1": {
+            "text": "Minister of Economy and Finance of Uruguay",
+            "links": [
+              {
+                "text": "Minister of Economy and Finance of Uruguay",
+                "type": "internal",
+                "page": "Ministry of Economy and Finance (Uruguay)"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Alejandro Atchugarry",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alejandro Atchugarry"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Danilo Astori",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Danilo Astori"
+              }
+            ]
+          },
+          "termend1": {
+            "text": "1 March 2005"
+          },
+          "termstart1": {
+            "text": "19 August 2003"
+          },
+          "president": {
+            "text": "Luis Alberto Lacalle Pou",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Luis Alberto Lacalle Pou"
+              }
+            ]
+          },
+          "president1": {
+            "text": "Jorge Batlle",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jorge Batlle"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "title": "Azucena Arbeleche",
+  "pageID": 55823347,
+  "categories": [
+    "1970 births",
+    "20th-century economists",
+    "21st-century economists",
+    "Living people",
+    "National Party (Uruguay) politicians",
+    "Ministers of Economics and Finance of Uruguay",
+    "Pontifical Catholic University of Chile alumni",
+    "Catholic University of Uruguay faculty",
+    "University of the Republic (Uruguay) alumni",
+    "University of the Republic (Uruguay) faculty",
+    "University of Montevideo faculty",
+    "Uruguayan economists",
+    "Uruguayan educators",
+    "Uruguayan Roman Catholics",
+    "Uruguayan women educators",
+    "Female finance ministers",
+    "Women civil servants",
+    "Uruguayan women economists"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Azucena María Arbeleche Perdomo (born 29 September 1970) is a Uruguayan economist, professor, and civil servant, serving as Ministry of Economy and Finance of Uruguay since March 1, 2020, being the first woman to hold that office.",
+              "links": [
+                {
+                  "text": "Uruguayan",
+                  "type": "internal",
+                  "page": "Uruguay"
+                },
+                {
+                  "text": "Ministry of Economy and Finance of Uruguay",
+                  "type": "internal",
+                  "page": "Ministry of Economy and Finance (Uruguay)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Azucena María Arbeleche Perdomo"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Uruguayan economist, professor, and civil servant",
+          "template": "short description"
+        },
+        {
+          "date": "February 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1970",
+          "month": "09",
+          "day": "29",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Azucena Arbeleche"
+          },
+          "order": {
+            "text": "Minister of Economy and Finance of Uruguay",
+            "links": [
+              {
+                "text": "Minister of Economy and Finance of Uruguay",
+                "type": "internal",
+                "page": "Ministry of Economy and Finance (Uruguay)"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "1 March 2020"
+          },
+          "president": {
+            "text": "Luis Alberto Lacalle Pou",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Luis Alberto Lacalle Pou"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Danilo Astori",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Danilo Astori"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Economist · professor · civil servant"
+          },
+          "birth_name": {
+            "text": "Azucena María Arbeleche Perdomo"
+          },
+          "birth_date": {
+            "text": "September 29, 1970"
+          },
+          "birth_place": {
+            "text": "Uruguay",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Uruguay"
+              }
+            ]
+          },
+          "party": {
+            "text": "National Party",
+            "links": [
+              {
+                "text": "National Party",
+                "type": "internal",
+                "page": "National Party (Uruguay)"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

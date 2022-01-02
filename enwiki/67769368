@@ -1,0 +1,217 @@
+{
+  "title": "José Luis Falero",
+  "pageID": 67769368,
+  "categories": [
+    "1966 births",
+    "Living people",
+    "People from San José de Mayo",
+    "National Party (Uruguay) politicians",
+    "Mayors of places in Uruguay",
+    "Ministers of Transport and Public Works of Uruguay"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "José Luis Falero Bértola (born 19 May 1966) is a Uruguayan businessman and politician of the National Party (PN), serving as Minister of Transport and Public Works since May 24, 2021 under president Luis Lacalle Pou.",
+              "links": [
+                {
+                  "text": "National Party",
+                  "type": "internal",
+                  "page": "National Party (Uruguay)"
+                },
+                {
+                  "text": "Minister of Transport and Public Works",
+                  "type": "internal",
+                  "page": "Ministry of Transport and Public Works (Uruguay)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Luis Lacalle Pou"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "José Luis Falero Bértola"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Falero",
+            "Bértola"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "year": "1966",
+          "month": "5",
+          "day": "19",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "José Luis Falero"
+          },
+          "term_end1": {
+            "text": "24 May 2021"
+          },
+          "succeeded2": {
+            "text": "Pedro Bidegain"
+          },
+          "predecessor2": {
+            "text": "Juan Chiruchi"
+          },
+          "office1": {
+            "text": "Deputy Director of the Office of Planning and Budget",
+            "links": [
+              {
+                "text": "Deputy Director of the Office of Planning and Budget",
+                "type": "internal",
+                "page": "Office of Planning and Budget"
+              }
+            ]
+          },
+          "president1": {
+            "text": "Luis Lacalle Pou",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Luis Lacalle Pou"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Benjamín Irazábal"
+          },
+          "predecessor1": {
+            "text": "Santiago Soto Baracchini"
+          },
+          "term_start1": {
+            "text": "1 March 2020"
+          },
+          "term_end2": {
+            "text": "2020",
+            "number": 2020
+          },
+          "office": {
+            "text": "Minister of Transport and Public Works",
+            "links": [
+              {
+                "text": "Minister of Transport and Public Works",
+                "type": "internal",
+                "page": "Ministry of Transport and Public Works (Uruguay)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Luis Lacalle Pou",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Luis Lacalle Pou"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Luis Alberto Héber",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Luis Alberto Héber"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "25 May 2021"
+          },
+          "term_start2": {
+            "text": "8 July 2010"
+          },
+          "office2": {
+            "text": "Intendant of San José",
+            "links": [
+              {
+                "text": "Intendant of San José",
+                "type": "internal",
+                "page": "San José Department"
+              }
+            ]
+          },
+          "children": {
+            "text": "Rodrigo · José Manuel"
+          },
+          "spouse": {
+            "text": "María del Pilar Miguel Cachés · Rossina Zaffaroni Fabra"
+          },
+          "party": {
+            "text": "National Party",
+            "links": [
+              {
+                "text": "National Party",
+                "type": "internal",
+                "page": "National Party (Uruguay)"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "San José de Mayo, Uruguay",
+            "links": [
+              {
+                "type": "internal",
+                "page": "San José de Mayo"
+              },
+              {
+                "type": "internal",
+                "page": "Uruguay"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "7 July 2005"
+          },
+          "birth_date": {
+            "text": "May 19, 1966"
+          },
+          "birth_name": {
+            "text": "José Luis Falero"
+          },
+          "image": {
+            "text": "José Luis Falero en 2014 (cropped).jpg"
+          },
+          "office3": {
+            "text": "Secretary General of the Municipality of San José",
+            "links": [
+              {
+                "text": "Secretary General of the Municipality of San José",
+                "type": "internal",
+                "page": "San José Department"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Beatriz Martínez"
+          },
+          "term_end3": {
+            "text": "9 July 2010"
+          },
+          "successor3": {
+            "text": "Ana María Bentaberri"
+          }
+        }
+      ]
+    }
+  ]
+}

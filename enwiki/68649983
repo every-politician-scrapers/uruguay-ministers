@@ -1,0 +1,243 @@
+{
+  "title": "Tabaré Viera",
+  "pageID": 68649983,
+  "categories": [
+    "Colorado Party (Uruguay) politicians",
+    "Members of the Chamber of Representatives of Uruguay",
+    "1955 births",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tabaré Viera Duarte (born 7 April 1955) is a Uruguayan politician of the Colorado Party (PC), serving as Minister of Tourism since August 23, 2021 under president Luis Lacalle Pou.",
+              "links": [
+                {
+                  "text": "Colorado Party",
+                  "type": "internal",
+                  "page": "Colorado Party (Uruguay)"
+                },
+                {
+                  "text": "Minister of Tourism",
+                  "type": "internal",
+                  "page": "Ministry of Tourism (Uruguay)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Luis Lacalle Pou"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Tabaré Viera Duarte"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Viera",
+            "Duarte"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "year": "1955",
+          "month": "4",
+          "day": "7",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "succeeded1": {
+            "text": "Raúl Batlle Lamuraglia"
+          },
+          "order3": {
+            "text": "Intendant of Rivera"
+          },
+          "term_start4": {
+            "text": "2005",
+            "number": 2005
+          },
+          "termend2": {
+            "text": "15 February 2015"
+          },
+          "termstart2": {
+            "text": "15 February 2010"
+          },
+          "termstart1": {
+            "text": "20 October 2020"
+          },
+          "termend1": {
+            "text": "23 August 2021"
+          },
+          "predecessor1": {
+            "text": "Julio María Sanguinetti",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Julio María Sanguinetti"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Senator of the Republic",
+            "links": [
+              {
+                "text": "Senator of the Republic",
+                "type": "internal",
+                "page": "Senate of Uruguay"
+              }
+            ]
+          },
+          "term_end4": {
+            "text": "2009",
+            "number": 2009
+          },
+          "predecessor4": {
+            "text": "María Terrón"
+          },
+          "term_start5": {
+            "text": "13 July 2000"
+          },
+          "term_end5": {
+            "text": "2005",
+            "number": 2005
+          },
+          "predecessor5": {
+            "text": "Asdrúbal Vázquez"
+          },
+          "succeeded5": {
+            "text": "María Terrón"
+          },
+          "term_start6": {
+            "text": "1998",
+            "number": 1998
+          },
+          "term_end6": {
+            "text": "2000",
+            "number": 2000
+          },
+          "order6": {
+            "text": "President of the National Administration of Telecommunications",
+            "links": [
+              {
+                "text": "President of the National Administration of Telecommunications",
+                "type": "internal",
+                "page": "ANTEL"
+              }
+            ]
+          },
+          "predecessor6": {
+            "text": "Ricardo Lombardo"
+          },
+          "order2": {
+            "text": "Representative of Uruguay\nfor Rivera",
+            "links": [
+              {
+                "text": "Representative of Uruguay",
+                "type": "internal",
+                "page": "Chamber of Representatives of Uruguay"
+              },
+              {
+                "text": "Rivera",
+                "type": "internal",
+                "page": "Rivera Department"
+              }
+            ]
+          },
+          "succeeded4": {
+            "text": "Marne Osorio"
+          },
+          "name": {
+            "text": "Tabaré Viera Duarte"
+          },
+          "office": {
+            "text": "Minister of Tourism of Uruguay",
+            "links": [
+              {
+                "text": "Minister of Tourism of Uruguay",
+                "type": "internal",
+                "page": "Ministry of Tourism (Uruguay)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "23 August 2021"
+          },
+          "president": {
+            "text": "Luis Lacalle Pou",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Luis Lacalle Pou"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Germán Cardoso"
+          },
+          "birth_date": {
+            "text": "April 7, 1955"
+          },
+          "birth_place": {
+            "text": "Rivera, Uruguay",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rivera"
+              },
+              {
+                "type": "internal",
+                "page": "Uruguay"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Uruguayan",
+            "links": [
+              {
+                "text": "Uruguayan",
+                "type": "internal",
+                "page": "Uruguay"
+              }
+            ]
+          },
+          "party": {
+            "text": "Colorado Party",
+            "links": [
+              {
+                "text": "Colorado Party",
+                "type": "internal",
+                "page": "Colorado Party (Uruguay)"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          },
+          "succeeded6": {
+            "text": "Fernando Bracco"
+          }
+        }
+      ]
+    }
+  ]
+}
