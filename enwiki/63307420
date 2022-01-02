@@ -1,0 +1,197 @@
+{
+  "title": "Álvaro Delgado Ceretta",
+  "pageID": 63307420,
+  "categories": [
+    "National Party (Uruguay) politicians",
+    "Members of the Chamber of Representatives of Uruguay",
+    "Members of the Senate of Uruguay",
+    "Uruguayan veterinarians",
+    "1969 births",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Álvaro Luis Delgado Ceretta (born 11 March 1969) is a Uruguayan veterinarian, rural producer and politician of the National Party (PN) who is the current Secretary of the Presidency of the Republic, since 1 March 2020.",
+              "links": [
+                {
+                  "text": "Uruguayan",
+                  "type": "internal",
+                  "page": "Uruguay"
+                },
+                {
+                  "text": "National Party",
+                  "type": "internal",
+                  "page": "National Party (Uruguay)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Álvaro Luis Delgado Ceretta"
+                ]
+              }
+            },
+            {
+              "text": "He also previously served as National Representative from 2005 to 2015, as well as Senator from 2015 to 2020.",
+              "links": [
+                {
+                  "text": "National Representative",
+                  "type": "internal",
+                  "page": "Chamber of Representatives of Uruguay"
+                },
+                {
+                  "text": "Senator",
+                  "type": "internal",
+                  "page": "Senate of Uruguay"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Born in Montevideo and graduated from the University of the Republic in 1995 with the degree of Doctor of Veterinary and Veterinary Technology, Delgado has a postgraduate degree in Agroindustrial Management in the School of Management and International Studies of the ORT University Uruguay.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Montevideo"
+                },
+                {
+                  "text": "University of the Republic",
+                  "type": "internal",
+                  "page": "University of the Republic (Uruguay)"
+                },
+                {
+                  "text": "ORT University Uruguay",
+                  "type": "internal",
+                  "page": "Universidad ORT Uruguay"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "March 2020",
+          "template": "refimprove"
+        },
+        {
+          "year": "1969",
+          "month": "03",
+          "day": "11",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Álvaro Delgado"
+          },
+          "office3": {
+            "text": "Representative of Uruguay\nfor Montevideo",
+            "links": [
+              {
+                "text": "Representative of Uruguay",
+                "type": "internal",
+                "page": "Chamber of Representatives of Uruguay"
+              },
+              {
+                "text": "Montevideo",
+                "type": "internal",
+                "page": "Montevideo Department"
+              }
+            ]
+          },
+          "children": {
+            "text": "Agustina, Felipe, Pilar"
+          },
+          "spouse": {
+            "text": "Leticia Lateulade"
+          },
+          "party": {
+            "text": "National Party"
+          },
+          "birth_place": {
+            "text": "Montevideo, Uruguay",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Montevideo"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "March 11, 1969"
+          },
+          "birth_name": {
+            "text": "Álvaro Luis Delgado Ceretta"
+          },
+          "term_end3": {
+            "text": "15 February 2015"
+          },
+          "term_start3": {
+            "text": "15 February 2005"
+          },
+          "image": {
+            "text": "AlvaroDelgado-2000x1500.jpg"
+          },
+          "term_end2": {
+            "text": "15 February 2020"
+          },
+          "term_start2": {
+            "text": "15 February 2015"
+          },
+          "office2": {
+            "text": "Senator of Uruguay",
+            "links": [
+              {
+                "text": "Senator of Uruguay",
+                "type": "internal",
+                "page": "Senate of Uruguay"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Miguel Toma"
+          },
+          "president": {
+            "text": "Luis Alberto Lacalle Pou",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Luis Alberto Lacalle Pou"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 March 2020"
+          },
+          "office": {
+            "text": "Secretary of the Presidency of Uruguay"
+          },
+          "alma_mater": {
+            "text": "University of the Republic",
+            "links": [
+              {
+                "text": "University of the Republic",
+                "type": "internal",
+                "page": "University of the Republic (Uruguay)"
+              }
+            ]
+          },
+          "honorific_prefix": {
+            "text": "His Excellency Dr"
+          }
+        }
+      ]
+    }
+  ]
+}

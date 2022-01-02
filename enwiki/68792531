@@ -1,0 +1,192 @@
+{
+  "title": "Omar Paganini",
+  "pageID": 68792531,
+  "categories": [
+    "University of the Republic (Uruguay) alumni",
+    "Catholic University of Uruguay alumni",
+    "Catholic University of Uruguay faculty",
+    "National Party (Uruguay) politicians",
+    "Ministers of Industries, Energy and Mining of Uruguay",
+    "1962 births",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Omar Ignacio Paganini Herrera (born 2 June 1962) is an Uruguayan electrical engineer, academic and politician of the National Party, serving as Minister of Industry, Energy and Mining under president Luis Lacalle Pou.",
+              "links": [
+                {
+                  "text": "Uruguayan",
+                  "type": "internal",
+                  "page": "Uruguay"
+                },
+                {
+                  "text": "National Party",
+                  "type": "internal",
+                  "page": "National Party (Uruguay)"
+                },
+                {
+                  "text": "Minister of Industry, Energy and Mining",
+                  "type": "internal",
+                  "page": "Ministry of Industry, Energy and Mining (Uruguay)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Luis Lacalle Pou"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Omar Ignacio Paganini Herrera"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Graduated from the University of the Republic with a degree in Electrical Engineering, Paganini obtained a Master of Business Administration from the Catholic University of Uruguay.",
+              "links": [
+                {
+                  "text": "University of the Republic",
+                  "type": "internal",
+                  "page": "University of the Republic (Uruguay)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Master of Business Administration"
+                },
+                {
+                  "type": "internal",
+                  "page": "Catholic University of Uruguay"
+                }
+              ]
+            },
+            {
+              "text": "He also trained in Entrepreneurship at Stanford University and the University of California, Berkeley, and in Negotiation by the Global PON program at Harvard University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Stanford University"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of California, Berkeley"
+                },
+                {
+                  "type": "internal",
+                  "page": "Harvard University"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Uruguayan electrical engineer, politician and professor",
+          "template": "short description"
+        },
+        {
+          "year": "1962",
+          "month": "06",
+          "day": "02",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Paganini",
+            "Herrera"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Omar Paganini"
+          },
+          "order": {
+            "text": "Minister of Industry, Energy and Mining of Uruguay",
+            "links": [
+              {
+                "text": "Minister of Industry, Energy and Mining of Uruguay",
+                "type": "internal",
+                "page": "Ministry of Industry, Energy and Mining (Uruguay)"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "1 March 2020"
+          },
+          "president": {
+            "text": "Luis Alberto Lacalle Pou",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Luis Alberto Lacalle Pou"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Guillermo Moncecchi"
+          },
+          "occupation": {
+            "text": "Electrical engineer · academic · politician"
+          },
+          "birth_name": {
+            "text": "Omar Ignacio Paganini Herrera"
+          },
+          "birth_date": {
+            "text": "June 2, 1962"
+          },
+          "birth_place": {
+            "text": "Montevideo, Uruguay",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Montevideo"
+              },
+              {
+                "type": "internal",
+                "page": "Uruguay"
+              }
+            ]
+          },
+          "party": {
+            "text": "National Party",
+            "links": [
+              {
+                "text": "National Party",
+                "type": "internal",
+                "page": "National Party (Uruguay)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of the Republic Catholic University of Uruguay",
+            "links": [
+              {
+                "text": "University of the Republic",
+                "type": "internal",
+                "page": "University of the Republic (Uruguay)"
+              },
+              {
+                "type": "internal",
+                "page": "Catholic University of Uruguay"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
