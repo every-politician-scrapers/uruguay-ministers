@@ -62,13 +62,6 @@
           "template": "short description"
         },
         {
-          "list": [
-            "Francisco Bustillo"
-          ],
-          "date": "April 2013",
-          "template": "expand spanish"
-        },
-        {
           "year": "1960",
           "month": "04",
           "day": "01",
@@ -117,6 +110,9 @@
                 "page": "Guillermo Pomi"
               }
             ]
+          },
+          "image": {
+            "text": "Francisco Bustillo.jpg"
           },
           "birth_place": {
             "text": "Montevideo, Uruguay",
