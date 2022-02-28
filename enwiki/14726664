@@ -165,7 +165,7 @@
         {
           "year": "1973",
           "month": "8",
-          "day": "11",
+          "day": "10",
           "df": "y",
           "template": "birth date and age"
         },
@@ -302,7 +302,7 @@
             "text": "Luis Alberto Aparicio Alejandro Lacalle Pou"
           },
           "birth_date": {
-            "text": "August 11, 1973"
+            "text": "August 10, 1973"
           },
           "birth_place": {
             "text": "Montevideo, Uruguay",
