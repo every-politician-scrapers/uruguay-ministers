@@ -132,7 +132,13 @@
             ]
           },
           "succeeded1": {
-            "text": "Alfredo Fratti"
+            "text": "Alfredo Fratti",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alfredo Fratti"
+              }
+            ]
           },
           "predecessor1": {
             "text": "Cecilia Bottino",
