@@ -17,31 +17,12 @@
         {
           "sentences": [
             {
-              "text": "Luis Alfredo Fratti Silveira (born 1956) is a Uruguayan politician and veterinarian who serves as President of the Chamber of Representatives of Uruguay since 1 March 2021.",
+              "text": "Luis Alfredo Fratti Silveira (born 1956) is a Uruguayan politician and veterinarian of the Movement of Popular Participation – Broad Front, serving as National Representative for Cerro Largo Department since 15 February 2015.",
               "links": [
                 {
                   "text": "Uruguayan",
                   "type": "internal",
                   "page": "Uruguay"
-                },
-                {
-                  "text": "President of the Chamber of Representatives of Uruguay",
-                  "type": "internal",
-                  "page": "List of presidents of the Chamber of Representatives of Uruguay"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Luis Alfredo Fratti Silveira"
-                ]
-              }
-            },
-            {
-              "text": "He also serves as a deputy for Cerro Largo Department since 15 February 2015 and is a member of the Movement of Popular Participation – Broad Front.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Cerro Largo Department"
                 },
                 {
                   "type": "internal",
@@ -51,8 +32,25 @@
                   "text": "Broad Front",
                   "type": "internal",
                   "page": "Broad Front (Uruguay)"
+                },
+                {
+                  "text": "National Representative",
+                  "type": "internal",
+                  "page": "Chamber of Representatives of Uruguay"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cerro Largo Department"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Luis Alfredo Fratti Silveira"
+                ]
+              }
+            },
+            {
+              "text": "He served as president of the Chamber of Representatives from March 1, 2021 to March 1, 2022."
             }
           ]
         },
@@ -130,6 +128,18 @@
           },
           "termstart": {
             "text": "1 March 2021"
+          },
+          "termend": {
+            "text": "1 March 2022"
+          },
+          "successor": {
+            "text": "Ope Pasquet",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ope Pasquet"
+              }
+            ]
           },
           "predecessor": {
             "text": "Martín Lema",
