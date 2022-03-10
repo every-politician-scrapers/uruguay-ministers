@@ -1,166 +1,18 @@
 {
-  "title": "Pablo Mieres",
-  "pageID": 42400920,
-  "categories": [
-    "1959 births",
-    "Living people",
-    "People from Montevideo",
-    "University of the Republic (Uruguay) alumni",
-    "Uruguayan lawyers",
-    "Uruguayan sociologists",
-    "Uruguayan politicians",
-    "Candidates for President of Uruguay",
-    "Uruguayan vice-presidential candidates"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Pablo Andrés Mieres Gómez (born 30 July 1959 in Montevideo) is a Uruguayan lawyer, sociologist, professor and politician of the Independent Party (PI), serving as Minister of Labour and Social Welfare of Uruguay, since March 1, 2020.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Montevideo"
-                },
-                {
-                  "text": "Independent Party",
-                  "type": "internal",
-                  "page": "Independent Party (Uruguay)"
-                },
-                {
-                  "text": "Minister of Labour and Social Welfare of Uruguay",
-                  "type": "internal",
-                  "page": "Ministry of Labour and Social Welfare (Uruguay)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Pablo Andrés Mieres Gómez"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "Mieres",
-            "Gómez"
-          ],
-          "lang": "Spanish",
-          "template": "family name hatnote"
-        },
-        {
-          "year": "1959",
-          "month": "07",
-          "day": "30",
-          "df": "yes",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Pablo Mieres"
-          },
-          "birth_name": {
-            "text": "Pablo Andrés Mieres Gómez"
-          },
-          "children": {
-            "text": "Federico, Ignacio and Verónica"
-          },
-          "spouse": {
-            "text": "Rossana Aboy Mombelli"
-          },
-          "party": {
-            "text": "Independent Party",
-            "links": [
-              {
-                "text": "Independent Party",
-                "type": "internal",
-                "page": "Independent Party (Uruguay)"
-              }
-            ]
-          },
-          "birth_place": {
-            "text": "Montevideo, Uruguay",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Montevideo"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "July 30, 1959"
-          },
-          "term_end2": {
-            "text": "15 February 2020"
-          },
-          "image": {
-            "text": "Pablomieres.jpg"
-          },
-          "term_start2": {
-            "text": "15 February 2015"
-          },
-          "office2": {
-            "text": "Senator of Uruguay",
-            "links": [
-              {
-                "text": "Senator of Uruguay",
-                "type": "internal",
-                "page": "Senate of Uruguay"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Ernesto Murro",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ernesto Murro"
-              }
-            ]
-          },
-          "president": {
-            "text": "Luis Alberto Lacalle Pou",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Luis Alberto Lacalle Pou"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "1 March 2020"
-          },
-          "office": {
-            "text": "Minister of Labour and Social Welfare of Uruguay",
-            "links": [
-              {
-                "text": "Minister of Labour and Social Welfare of Uruguay",
-                "type": "internal",
-                "page": "Ministry of Labour and Social Welfare (Uruguay)"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of the Republic",
-            "links": [
-              {
-                "text": "University of the Republic",
-                "type": "internal",
-                "page": "University of the Republic (Uruguay)"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Pablo Mieres",
+  "birth_name": "Pablo Andrés Mieres Gómez",
+  "children": "Federico, Ignacio and Verónica",
+  "spouse": "Rossana Aboy Mombelli",
+  "party": "Independent Party",
+  "birth_place": "Montevideo, Uruguay",
+  "birth_date": "July 30, 1959",
+  "term_end2": "15 February 2020",
+  "image": "Pablomieres.jpg",
+  "term_start2": "15 February 2015",
+  "office2": "Senator of Uruguay",
+  "predecessor": "Ernesto Murro",
+  "president": "Luis Alberto Lacalle Pou",
+  "term_start": "1 March 2020",
+  "office": "Minister of Labour and Social Welfare of Uruguay",
+  "alma_mater": "University of the Republic"
 }

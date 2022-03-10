@@ -1,288 +1,32 @@
 {
-  "title": "Luis Alberto Héber",
-  "pageID": 17572660,
-  "categories": [
-    "1957 births",
-    "Uruguayan people of German descent",
-    "Uruguayan people of Italian descent",
-    "Presidents of the Chamber of Representatives of Uruguay",
-    "Members of the Chamber of Representatives of Uruguay",
-    "Members of the Senate of Uruguay",
-    "Living people",
-    "National Party (Uruguay) politicians",
-    "Ministers of Transport and Public Works of Uruguay"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Luis Alberto Héber Fontana (born 1957) is a Uruguayan political figure of the National Party, serving as Minister of Interior, since May 24, 2021.",
-              "links": [
-                {
-                  "text": "Uruguayan",
-                  "type": "internal",
-                  "page": "Uruguay"
-                },
-                {
-                  "text": "National Party",
-                  "type": "internal",
-                  "page": "National Party (Uruguay)"
-                },
-                {
-                  "text": "Minister of Interior",
-                  "type": "internal",
-                  "page": "Ministry of the Interior (Uruguay)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Luis Alberto Héber Fontana"
-                ]
-              }
-            },
-            {
-              "text": "He previously served as Minister of Transport and Public Works (from March 1, 2020 to May 24, 2021), Senator (1995–2020) and as National Representative (1985–1995).",
-              "links": [
-                {
-                  "text": "Minister of Transport and Public Works",
-                  "type": "internal",
-                  "page": "Ministry of Transport and Public Works (Uruguay)"
-                },
-                {
-                  "text": "Senator",
-                  "type": "internal",
-                  "page": "Senate of Uruguay"
-                },
-                {
-                  "text": "National Representative",
-                  "type": "internal",
-                  "page": "Chamber of Representatives of Uruguay"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "Héber",
-            "Fontana"
-          ],
-          "lang": "Spanish",
-          "template": "family name hatnote"
-        },
-        {
-          "year": "1957",
-          "month": "12",
-          "day": "22",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Luis Alberto Heber"
-          },
-          "parents": {
-            "text": "Mario Heber Usher\nMaría Fontana Etchepare",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mario Heber Usher"
-              }
-            ]
-          },
-          "children": {
-            "text": "Victoria Blanca · Emilia"
-          },
-          "spouse": {
-            "text": "Adriana Currás"
-          },
-          "party": {
-            "text": "National Party",
-            "links": [
-              {
-                "text": "National Party",
-                "type": "internal",
-                "page": "National Party (Uruguay)"
-              }
-            ]
-          },
-          "birth_place": {
-            "text": "Montevideo, Uruguay",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Montevideo"
-              },
-              {
-                "type": "internal",
-                "page": "Uruguay"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "December 22, 1957"
-          },
-          "birth_name": {
-            "text": "Luis Alberto Heber Fontana"
-          },
-          "image": {
-            "text": "Luis Alberto Heber Fontana.jpg"
-          },
-          "office4": {
-            "text": "Representative of Uruguay\nfor Rivera",
-            "links": [
-              {
-                "text": "Representative of Uruguay",
-                "type": "internal",
-                "page": "Chamber of Representatives of Uruguay"
-              },
-              {
-                "text": "Rivera",
-                "type": "internal",
-                "page": "Rivera Department"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "14 February 1985"
-          },
-          "term_end4": {
-            "text": "13 February 1995"
-          },
-          "office3": {
-            "text": "Senator of Uruguay",
-            "links": [
-              {
-                "text": "Senator of Uruguay",
-                "type": "internal",
-                "page": "Senate of Uruguay"
-              }
-            ]
-          },
-          "term_end3": {
-            "text": "15 February 2020"
-          },
-          "term_start3": {
-            "text": "2 March 1995"
-          },
-          "office2": {
-            "text": "President of the National Party",
-            "links": [
-              {
-                "text": "National Party",
-                "type": "internal",
-                "page": "National Party (Uruguay)"
-              }
-            ]
-          },
-          "term_end2": {
-            "text": "16 April 2018"
-          },
-          "term_start2": {
-            "text": "13 January 2011"
-          },
-          "succeeded2": {
-            "text": "Beatriz Argimón",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Beatriz Argimón"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Luis Alberto Lacalle",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Luis Alberto Lacalle"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Transport and Public Works",
-            "links": [
-              {
-                "text": "Minister of Transport and Public Works",
-                "type": "internal",
-                "page": "Ministry of Transport and Public Works (Uruguay)"
-              }
-            ]
-          },
-          "president1": {
-            "text": "Luis Alberto Lacalle Pou",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Luis Alberto Lacalle Pou"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "José Luis Falero",
-            "links": [
-              {
-                "type": "internal",
-                "page": "José Luis Falero"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Victor Rossi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Victor Rossi"
-              }
-            ]
-          },
-          "term_end1": {
-            "text": "24 May 2021"
-          },
-          "term_start1": {
-            "text": "1 March 2020"
-          },
-          "office": {
-            "text": "Minister of Interior",
-            "links": [
-              {
-                "text": "Minister of Interior",
-                "type": "internal",
-                "page": "Ministry of the Interior (Uruguay)"
-              }
-            ]
-          },
-          "president": {
-            "text": "Luis Alberto Lacalle Pou",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Luis Alberto Lacalle Pou"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Jorge Larrañaga",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jorge Larrañaga"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "24 May 2021"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Luis Alberto Heber",
+  "parents": "Mario Heber Usher\nMaría Fontana Etchepare",
+  "children": "Victoria Blanca · Emilia",
+  "spouse": "Adriana Currás",
+  "party": "National Party",
+  "birth_place": "Montevideo, Uruguay",
+  "birth_date": "December 22, 1957",
+  "birth_name": "Luis Alberto Heber Fontana",
+  "image": "Luis Alberto Heber Fontana.jpg",
+  "office4": "Representative of Uruguay\nfor Rivera",
+  "term_start4": "14 February 1985",
+  "term_end4": "13 February 1995",
+  "office3": "Senator of Uruguay",
+  "term_end3": "15 February 2020",
+  "term_start3": "2 March 1995",
+  "office2": "President of the National Party",
+  "term_end2": "16 April 2018",
+  "term_start2": "13 January 2011",
+  "succeeded2": "Beatriz Argimón",
+  "predecessor2": "Luis Alberto Lacalle",
+  "office1": "Minister of Transport and Public Works",
+  "president1": "Luis Alberto Lacalle Pou",
+  "successor1": "José Luis Falero",
+  "predecessor1": "Victor Rossi",
+  "term_end1": "24 May 2021",
+  "term_start1": "1 March 2020",
+  "office": "Minister of Interior",
+  "president": "Luis Alberto Lacalle Pou",
+  "predecessor": "Jorge Larrañaga",
+  "term_start": "24 May 2021"
 }
