@@ -1,0 +1,41 @@
+id,name,relationship,relative,relativename
+Q110251215,Gustavo Fajardo,sibling,Q715224,Arturo Fajardo
+Q15147,Jorge Batlle Ibáñez,father,Q728925,Luis Batlle Berres
+Q15147,Jorge Batlle Ibáñez,mother,Q2877957,Matilde Ibáñez Tálice
+Q15147,Jorge Batlle Ibáñez,sibling,Q1876352,Luis Batlle Ibáñez
+Q15147,Jorge Batlle Ibáñez,spouse,Q9031696,Mercedes Menafra
+Q16543727,Carolina Cosse,father,Q1694813,Villanueva Cosse
+Q16596518,Macarena Gelman,father,Q55222552,Marcelo Ariel Gelman Schuberoff
+Q16596518,Macarena Gelman,mother,Q55220329,María Claudia García Irureta Goyena
+Q2995047,Constanza Moreira,father,Q42395708,Iradier Moreira
+Q311428,Julio María Sanguinetti,child,Q28065868,Emma Sanguinetti
+Q311428,Julio María Sanguinetti,spouse,Q5390478,Marta Canessa
+Q3824716,Ope Pasquet,spouse,Q28663008,Elena Martínez Rosso
+Q5390478,Marta Canessa,child,Q28065868,Emma Sanguinetti
+Q5390478,Marta Canessa,mother,Q16601548,María de Montserrat
+Q5390478,Marta Canessa,spouse,Q311428,Julio María Sanguinetti
+Q5858305,Felipe Michelini,father,Q3575151,Zelmar Michelini
+Q5858305,Felipe Michelini,mother,Q5829531,Elisa Delle Piane
+Q5858305,Felipe Michelini,sibling,Q958940,Rafael Michelini
+Q5998504,Mario Bergara,partner,Q24044782,Blanca Isabel Rodríguez González
+Q6101178,Raúl Fernando Sendic Rodrígue,child,Q18693124,Ana Clara
+Q6101178,Raúl Fernando Sendic Rodrígue,father,Q592686,Raúl Sendic
+Q62060883,Guido Manini Ríos,relative,Q6069417,Pedro Manini Ríos
+Q62060883,Guido Manini Ríos,relative,Q8264046,Carlos Manini Ríos
+Q6300980,Juan Sartori,spouse,Q15057217,Ekaterina Rybolovleva
+Q6800406,Luis Lacalle Pou,father,Q336253,Luis Alberto Lacalle
+Q6800406,Luis Lacalle Pou,mother,Q9016411,María Julia Pou Brito del Pino
+Q6800406,Luis Lacalle Pou,spouse,Q86076653,Lorena Ponce de León
+Q72980918,Irene Moreira,spouse,Q62060883,Guido Manini Ríos
+Q9013534,José Amorín Batlle,father,Q99619808,Julio Amorín Larrañaga
+Q9029949,María Auxiliadora Delgado,spouse,Q9099,Tabaré Vázquez
+Q9031696,Mercedes Menafra,spouse,Q15147,Jorge Batlle Ibáñez
+Q9094,José Mujica,spouse,Q977078,Lucía Topolansky
+Q9099,Tabaré Vázquez,spouse,Q9029949,María Auxiliadora Delgado
+Q91272452,Verónica Mato,father,Q55237754,Miguel Ángel Mato Fagian
+Q922744,Eduardo Bonomi,child,Q201,3
+Q961132,Luis Hierro López,father,Q3076962,Luis Hierro Gambardella
+Q961599,Hugo Fernández Faingold,father,Q1789015,Hugo Fernández Artucio
+Q977078,Lucía Topolansky,partner,Q9094,José Mujica
+Q977078,Lucía Topolansky,sibling,Q62988139,María Elia Topolansky
+Q977078,Lucía Topolansky,spouse,Q9094,José Mujica
