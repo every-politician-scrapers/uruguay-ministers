@@ -1,4 +1,4 @@
 ordinal,item,itemLabel,start,end,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-47,Q6366945,47th Legislature of the Chamber of Deputies of Uruguay,2010-02-15,2015-02-15,2010-02-15,11,,,2015-02-15,11,,,,,,,,,Q26183188,48th Legislature of the Chamber of Deputies of Uruguay
+47,Q6366945,47th Legislature of the Chamber of Deputies of Uruguay,2010-02-15,2015-02-15,2010-02-15,11,,,2015-02-15,11,,,,,Q26183188,48th Legislature of the Chamber of Deputies of Uruguay,,,Q26183188,48th Legislature of the Chamber of Deputies of Uruguay
 48,Q26183188,48th Legislature of the Chamber of Deputies of Uruguay,2015-02-15,2020-02-15,2015-02-15,11,,,2020-02-15,11,,,Q6366945,47th Legislature of the Chamber of Deputies of Uruguay,Q85465684,49th Legislature of the Chamber of Deputies of Uruguay,,,,
 49,Q85465684,49th Legislature of the Chamber of Deputies of Uruguay,2020-02-15,2025-02-15,2020-02-15,11,,,2025-02-15,11,,,Q26183188,48th Legislature of the Chamber of Deputies of Uruguay,,,,,,
