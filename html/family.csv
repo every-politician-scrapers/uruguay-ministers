@@ -1,4 +1,5 @@
 id,name,relationship,relative,relativename
+Q106163348,Felipe Schipani,partner,Q82281686,María Eugenia Roselló
 Q110251215,Gustavo Fajardo,sibling,Q715224,Arturo Fajardo
 Q15147,Jorge Batlle Ibáñez,father,Q728925,Luis Batlle Berres
 Q15147,Jorge Batlle Ibáñez,mother,Q2877957,Matilde Ibáñez Tálice
@@ -27,6 +28,7 @@ Q6800406,Luis Lacalle Pou,father,Q336253,Luis Alberto Lacalle
 Q6800406,Luis Lacalle Pou,mother,Q9016411,María Julia Pou Brito del Pino
 Q6800406,Luis Lacalle Pou,spouse,Q86076653,Lorena Ponce de León
 Q72980918,Irene Moreira,spouse,Q62060883,Guido Manini Ríos
+Q82281686,María Eugenia Roselló,partner,Q106163348,Felipe Schipani
 Q9013534,José Amorín Batlle,father,Q99619808,Julio Amorín Larrañaga
 Q9029949,María Auxiliadora Delgado,spouse,Q9099,Tabaré Vázquez
 Q9031696,Mercedes Menafra,spouse,Q15147,Jorge Batlle Ibáñez
