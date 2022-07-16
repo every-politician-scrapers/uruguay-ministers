@@ -1,89 +1,55 @@
 @@,itemlabel,item,startdate,enddate
 +++,Agustín Mazzini,,2022-03-01,
-+++,Alejandro Sánchez,Q5665525,2020-02-15,2020-10-20
-+++,Alejo Umpiérrez,Q108528171,2020-02-15,2020-11-18
 +++,Alexandra Inzaurralde,,2020-11-18,
 +++,Alfonso Lereté,,2020-03-01,
+->,Alfredo Fratti->Luis Alfredo Fratti,Q106512605,2020-02-15,
 +++,Alfredo de Mattos,,2020-02-15,
-+++,Amín Niffouri,Q30904782,2020-02-15,2020-03-01
-+++,Ana Olivera,Q459151,2020-02-15,
-+++,Andrés Abt,Q99438633,2020-03-01,2020-11-18
-+++,Armando Castaingdebat,Q678225,2020-02-15,2020-03-01
-+++,Armando Castaingdebat,Q678225,2021-05-04,
-+++,Benjamín Irazábal,Q817770,2020-02-15,2021-06-08
-+++,Bettiana Díaz,Q67906751,2020-02-15,
-+++,Carlos Enciso,Q1042871,2020-02-15,2020-07-01
-+++,Carlos Rodríguez Gálvez,Q20994989,2020-02-15,
+->,Amin Niffouri->Amín Niffouri,Q30904782,2020-02-15,2020-03-01
 +++,Carlos Testa,,2020-02-15,
-+++,Carlos Varela Nestier,Q5752037,2020-02-15,
+->,Carlos Varela (Uruguay)->Carlos Varela Nestier,Q5752037,2020-02-15,
 +++,Carmen Tort,,2020-11-18,
 ->,Cecilia Bottino,Q20994775,2015-02-15->2020-02-15,
 +++,Cecilia Cairo,,2020-02-15,
-+++,Christian Morel,Q91168243,2020-02-15,2020-11-18
 +++,Claudia Hugo,,2020-02-15,
 +++,Conrado Rodríguez,,2020-02-15,
 +++,Constante Mendiondo,,2020-02-15,
-+++,Cristina Lustemberg,Q44090224,2020-02-15,
-+++,César Vega,Q18396777,2020-02-15,
-+++,Daniel Caggiani,Q5798178,2020-02-15,
+->,Daniel Caggiani,Q5798178,2020-02-15,NULL->2022-02-20
 +++,Daniel Gerhard,,2020-02-15,
 +++,Daniel Martínez,,2020-11-18,
-+++,Daniel Peña Fernández,Q5798595,2020-02-15,
-+++,Dardo Sánchez Cal,Q978589,2020-02-15,
 +++,Diego Echeverría,,2020-02-15,
++++,Diego Reyes,Q5274784,2022-02-20,
 +++,Eduardo Antonini,,2020-02-15,
 +++,Eduardo Elinger,,2020-03-01,2021-08-23
 +++,Eduardo Lorenzo,,2020-11-18,
-+++,Eduardo Lust,Q77677012,2020-02-15,
 +++,Elsa Capillera,,2020-02-15,
 +++,Enzo Malán,,2020-02-15,
 +++,Federico Ruiz,,2020-02-15,
 ->,Felipe Carballo,Q28517183,2010-02-15->2020-02-15,
-+++,Felipe Schipani,Q106163348,2020-02-15,
 +++,Fernanda Araújo,,2021-05-04,
 +++,Gabriel Gianoli,,2020-02-15,
 +++,Gabriel Otero,,2020-02-15,
 +++,Gabriel Tinaglini,,2020-02-15,
 +++,Gabriela Barreiro,,2020-02-15,
-+++,Gerardo Amarilla,Q5878192,2020-02-15,2020-08-26
-+++,Gerardo Núñez,Q100734728,2020-02-15,
-+++,Germán Cardoso,Q5878631,2021-08-23,
-+++,Germán Cardoso,Q5878631,2020-02-15,2020-03-01
-+++,Gonzalo Civila,Q29052505,2020-02-15,
-+++,Gonzalo Mujica,Q5883126,2020-02-15,
-+++,Guillermo Besozzi,Q1553996,2020-02-15,2020-11-18
 +++,Gustavo Olmos,,2020-02-15,
-+++,Gustavo Penadés,Q9001524,2020-02-15,2020-03-01
-+++,Gustavo Zubía,Q76823304,2020-02-15,
 +++,Héctor Martín Sodano,,2020-02-15,
-+++,Iván Posada,Q5923545,2020-02-15,
 +++,Javier Radiccioni,,2020-02-15,
 +++,Javier Umpiérrez,,2020-02-15,
 +++,Jorge Alvear,,2020-02-15,
+---,José Carlos Mahía,Q5938798,2020-10-16,
+---,José Carlos Mahía,Q5938798,2020-06-25,2020-10-13
++++,José Carlos Mahía,Q5938798,2020-03-01,2020-03-13
 +++,José Carlos Mahía,Q5938798,2020-02-15,2020-02-15
-+++,José Carlos Mahía,Q5938798,2020-03-13,2020-06-25
-+++,José Carlos Mahía,Q5938798,2020-10-16,
-+++,José Carlos Mahía,Q5938798,2020-06-25,2020-10-13
+->,José Carlos Mahía->Luis Enrique Gallo,Q5938798,2020-03-13,2020-06-25
 +++,Juan Carlos Moreno,,2020-02-15,
 +++,Juan José Olaizola,,2020-02-15,2020-03-01
-+++,Juan Martín Rodríguez,Q96625454,2020-02-15,
 +++,Laura Burgoa,,2020-03-01,2021-05-04
-+++,Lilián Galán,Q20859060,2020-02-15,
 +++,Lucía Etcheverry,,2020-02-15,
-+++,Luis Alfredo Fratti,Q106512605,2020-02-15,
-+++,Luis Enrique Gallo,,2020-10-13,2020-10-15
-+++,Luis Enrique Gallo,,2020-03-13,2020-06-25
 +++,Luis Enrique Gallo,,2020-02-15,2020-02-29
----,Macarena Gelman,Q16596518,2015-02-15,
----,Manuela Mutti,Q20994912,2015-02-15,
 +++,Mariano Tucci,,2020-02-15,
 +++,Mario Colman,,2020-02-15,
 +++,Mario García,,2020-02-15,2020-11-18
-+++,Marne Osorio,Q1312690,2020-02-15,
 ->,Martín Lema,Q41777347,2015-02-15->2020-02-15,NULL->2021-05-04
 +++,Martín Melazzi,,2020-02-15,
-+++,Martín Tierno,Q6002905,2020-02-15,
-+++,María Eugenia Roselló,Q82281686,2020-02-15,
 +++,María Fajardo,,2020-11-18,
 +++,Miguel Irrazábal,,2021-06-08,
 +++,Milton Corbo,,2020-11-18,
@@ -96,8 +62,6 @@
 +++,Nicolás Olivera,,2020-02-15,2020-11-18
 +++,Nicolás Viera,,2020-02-15,
 +++,Omar Estévez,,2020-02-15,
-+++,Omar Lafluf,Q2023116,2020-02-15,2020-11-18
-+++,Ope Pasquet,Q3824716,2020-02-15,
 +++,Orquídea Minetti,,2020-02-15,
 +++,Pablo Viana,,2020-02-15,
 +++,Pedro Irigoin,,2020-02-15,2020-11-18
@@ -105,20 +69,16 @@
 +++,Rafael Menéndez,,2020-02-15,
 +++,Rodrigo Albernaz,,2020-02-15,
 +++,Rodrigo Blás,,2020-02-15,
-+++,Rodrigo Goñi,Q6110710,2020-02-15,
+->,Rodrigo Goñi Reyes->Rodrigo Goñi,Q6110710,2020-02-15,
 +++,Rubén Bacigalupe,,2020-02-15,
 +++,Sebastián Andújar,,2020-02-15,
 +++,Sebastián Cal,,2020-02-15,
-+++,Sebastián Sabini,Q1803805,2020-02-15,2022-02-28
 +++,Sebastián Valdomir,,2020-10-20,
 +++,Sergio Mier,,2020-02-15,
 +++,Silvana Pérez Bonavita,,2020-02-15,
----,Silvio Ríos,Q6128681,2015-02-15,
 +++,Solís Echeverría,,2020-02-15,2020-02-15
-+++,Susana Pereyra,Q98741063,2020-02-15,
 +++,Ubaldo Aíta,,2020-02-15,
 +++,Valentina dos Santos,,2020-02-15,
-->,Verónica Mato,Q91272452->NULL,2020-02-15,
 +++,Virginia Fros,,2020-08-26,
 +++,Walter Cervini,,2020-02-15,
 +++,Wilman Caballero,,2020-02-15,
@@ -128,5 +88,5 @@
 +++,Álvaro Lima,,2020-02-15,
 +++,Álvaro Perrone,,2020-02-15,
 +++,Álvaro Rodríguez,,2020-07-01,
-+++,Álvaro Viviano,,2020-02-15,
++++,Álvaro Viviano,Q111588491,2020-02-15,
 +++,Óscar Amigo,,2020-11-18,
