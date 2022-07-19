@@ -1,0 +1,633 @@
+{
+  "title": "Luis Alberto Héber",
+  "pageID": 17572660,
+  "categories": [
+    "1957 births",
+    "Uruguayan people of German descent",
+    "Uruguayan people of Italian descent",
+    "Presidents of the Chamber of Representatives of Uruguay",
+    "Members of the Chamber of Representatives of Uruguay",
+    "Members of the Senate of Uruguay",
+    "Living people",
+    "National Party (Uruguay) politicians",
+    "Ministers of Transport and Public Works of Uruguay"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Luis Alberto Héber Fontana (born 1957) is a Uruguayan political figure of the National Party, serving as Minister of Interior, since May 24, 2021.",
+              "links": [
+                {
+                  "text": "Uruguayan",
+                  "type": "internal",
+                  "page": "Uruguay"
+                },
+                {
+                  "text": "National Party",
+                  "type": "internal",
+                  "page": "National Party (Uruguay)"
+                },
+                {
+                  "text": "Minister of Interior",
+                  "type": "internal",
+                  "page": "Ministry of the Interior (Uruguay)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Luis Alberto Héber Fontana"
+                ]
+              }
+            },
+            {
+              "text": "He previously served as Minister of Transport and Public Works (from March 1, 2020 to May 24, 2021), Senator (1995–2020) and as National Representative (1985–1995).",
+              "links": [
+                {
+                  "text": "Minister of Transport and Public Works",
+                  "type": "internal",
+                  "page": "Ministry of Transport and Public Works (Uruguay)"
+                },
+                {
+                  "text": "Senator",
+                  "type": "internal",
+                  "page": "Senate of Uruguay"
+                },
+                {
+                  "text": "National Representative",
+                  "type": "internal",
+                  "page": "Chamber of Representatives of Uruguay"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Uruguayan politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Héber",
+            "Fontana"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "year": "1957",
+          "month": "12",
+          "day": "22",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Luis Alberto Heber"
+          },
+          "parents": {
+            "text": "Mario Heber Usher\nMaría Fontana Etchepare",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mario Heber Usher"
+              }
+            ]
+          },
+          "children": {
+            "text": "Victoria Blanca · Emilia"
+          },
+          "spouse": {
+            "text": "Adriana Currás"
+          },
+          "party": {
+            "text": "National Party",
+            "links": [
+              {
+                "text": "National Party",
+                "type": "internal",
+                "page": "National Party (Uruguay)"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Montevideo, Uruguay",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Montevideo"
+              },
+              {
+                "type": "internal",
+                "page": "Uruguay"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 22, 1957"
+          },
+          "birth_name": {
+            "text": "Luis Alberto Heber Fontana"
+          },
+          "image": {
+            "text": "Luis Alberto Heber Fontana.jpg"
+          },
+          "office4": {
+            "text": "Representative of Uruguay\nfor Rivera",
+            "links": [
+              {
+                "text": "Representative of Uruguay",
+                "type": "internal",
+                "page": "Chamber of Representatives of Uruguay"
+              },
+              {
+                "text": "Rivera",
+                "type": "internal",
+                "page": "Rivera Department"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "14 February 1985"
+          },
+          "term_end4": {
+            "text": "13 February 1995"
+          },
+          "office3": {
+            "text": "Senator of Uruguay",
+            "links": [
+              {
+                "text": "Senator of Uruguay",
+                "type": "internal",
+                "page": "Senate of Uruguay"
+              }
+            ]
+          },
+          "term_end3": {
+            "text": "15 February 2020"
+          },
+          "term_start3": {
+            "text": "2 March 1995"
+          },
+          "office2": {
+            "text": "President of the National Party",
+            "links": [
+              {
+                "text": "National Party",
+                "type": "internal",
+                "page": "National Party (Uruguay)"
+              }
+            ]
+          },
+          "term_end2": {
+            "text": "16 April 2018"
+          },
+          "term_start2": {
+            "text": "13 January 2011"
+          },
+          "succeeded2": {
+            "text": "Beatriz Argimón",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Beatriz Argimón"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Luis Alberto Lacalle",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Luis Alberto Lacalle"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Transport and Public Works",
+            "links": [
+              {
+                "text": "Minister of Transport and Public Works",
+                "type": "internal",
+                "page": "Ministry of Transport and Public Works (Uruguay)"
+              }
+            ]
+          },
+          "president1": {
+            "text": "Luis Alberto Lacalle Pou",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Luis Alberto Lacalle Pou"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "José Luis Falero",
+            "links": [
+              {
+                "type": "internal",
+                "page": "José Luis Falero"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Victor Rossi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Victor Rossi"
+              }
+            ]
+          },
+          "term_end1": {
+            "text": "24 May 2021"
+          },
+          "term_start1": {
+            "text": "1 March 2020"
+          },
+          "office": {
+            "text": "Minister of Interior",
+            "links": [
+              {
+                "text": "Minister of Interior",
+                "type": "internal",
+                "page": "Ministry of the Interior (Uruguay)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Luis Alberto Lacalle Pou",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Luis Alberto Lacalle Pou"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Jorge Larrañaga",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jorge Larrañaga"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "24 May 2021"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Luis Alberto Heber será el ministro del Interior y José Luis Falero encabezará Transporte",
+          "url": "https://www.montevideo.com.uy/Noticias/Luis-Alberto-Heber-sera-el-ministro-del-Interior-y-Jose-Luis-Falero-encabezara-Transporte-uc787435",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/ministros-firma-libro-actas-luis-lacalle-pou-plaza-independencia",
+          "title": "Nuevos secretarios de Estado firmaron Libro de Actas ante el flamante presidente, Luis Lacalle Pou - Presidencia de la República",
+          "website": "www.presidencia.gub.uy",
+          "access-date": "2020-03-05",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Background",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Luis Alberto Héber comes from a prominent Uruguayan National Party family; he himself has also for many years associated himself with this party's cause.",
+              "links": [
+                {
+                  "text": "National Party",
+                  "type": "internal",
+                  "page": "National Party (Uruguay)"
+                }
+              ]
+            },
+            {
+              "text": "His father Mario Héber Usher was a prominent Senator among his Party's leadership.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mario Héber Usher"
+                }
+              ]
+            },
+            {
+              "text": "His uncle Alberto Héber Usher was President of Uruguay 1966–1967.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Alberto Héber Usher"
+                },
+                {
+                  "type": "internal",
+                  "page": "President of Uruguay"
+                }
+              ]
+            },
+            {
+              "text": "He was married to the late Beatrice Dominici, Italian, until her death."
+            },
+            {
+              "text": "They have two daughters."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.elobservador.com.uy/nota/lacalle-y-heber-desde-el-fondo-de-los-tiempos-2021527161559",
+          "title": "Lacalle y Heber, desde el fondo de los tiempos",
+          "date": "28 May 2021",
+          "website": "El Observador",
+          "last": "Arregui",
+          "first": "Miguel",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 1989 Héber was elected to serve as a National Representative, and served as President of the Chamber of Deputies of Uruguay from March 1, 1993 to March 1, 1994.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chamber of Deputies of Uruguay"
+                }
+              ]
+            },
+            {
+              "text": "In the 1994 election he was elected Senator, and in subsequent years was repeatedly re-elected.",
+              "links": [
+                {
+                  "text": "1994 election",
+                  "type": "internal",
+                  "page": "1994 Uruguayan general election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Héber was appointed Minister of Transport and Public Works on December 16, 2019, days after the victory of Luis Lacalle Pou.",
+              "links": [
+                {
+                  "text": "Minister of Transport and Public Works",
+                  "type": "internal",
+                  "page": "Ministry of Transport and Public Works (Uruguay)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Luis Lacalle Pou"
+                }
+              ]
+            },
+            {
+              "text": "He took office on March 1, in replacement of Víctor Rossi.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Víctor Rossi"
+                }
+              ]
+            },
+            {
+              "text": "However, after the sudden death of Interior Minister Jorge Larrañaga, on May 24, 2021, President Lacalle Pou carried out a cabinet reshuffle; Héber was appointed in replacement of Larrañaga as head of the Ministry of the Interior, and José Luis Falero held the ministerial portfolio of Transport and Public Works.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jorge Larrañaga"
+                },
+                {
+                  "text": "cabinet reshuffle",
+                  "type": "internal",
+                  "page": "cabinet reshuffle"
+                },
+                {
+                  "text": "Ministry of the Interior",
+                  "type": "internal",
+                  "page": "Ministry of the Interior (Uruguay)"
+                },
+                {
+                  "type": "internal",
+                  "page": "José Luis Falero"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.parlamento.gub.uy/htmlstat/PL/OtrosDocumentos/ParlamentariosUruguayos.pdf",
+          "archive-url": "https://web.archive.org/web/20131029204334/http://www.parlamento.gub.uy/htmlstat/PL/OtrosDocumentos/ParlamentariosUruguayos.pdf",
+          "url-status": "dead",
+          "archive-date": "October 29, 2013",
+          "title": "Parlamentarios Uruguayos 1830-2005",
+          "date": "October 29, 2013",
+          "author": "PRESIDENCIA DE LA ASAMBLEA GENERAL Y DEL SENADO PRESIDENCIA DE LA CAMARA DE REPRESENTANTES",
+          "website": "www.parlamento.gub.uy",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "last": "Uruguay",
+          "first": "Presidencia de la República Oriental del",
+          "title": "Nuevos secretarios de Estado firmaron Libro de Actas ante el flamante presidente, Luis Lacalle Pou - Presidencia de la República",
+          "url": "https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/ministros-firma-libro-actas-luis-lacalle-pou-plaza-independencia",
+          "access-date": "2021-05-30",
+          "website": "Presidencia de la República Oriental del Uruguay",
+          "language": "es-ES",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Uruguay's interior minister Jorge Larrañaga dies at 64",
+          "url": "https://www.efe.com/efe/english/world/uruguay-s-interior-minister-jorge-larranaga-dies-at-64/50000262-4543454",
+          "access-date": "2021-05-30",
+          "website": "www.efe.com",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Observador",
+          "first": "El",
+          "title": "Luis Alberto Heber será el nuevo ministro del Interior y Falero irá a Transporte",
+          "url": "https://www.elobservador.com.uy/nota/lacalle-pou-designo-a-luis-alberto-heber-como-nuevo-ministro-del-interior-2021524181718",
+          "access-date": "2021-05-30",
+          "website": "El Observador",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "ElPais",
+          "title": "Lacalle eligió a Heber para Interior por \"capacidad política\"; Falero irá a Transporte por su manejo del área",
+          "url": "https://www.elpais.com.uy/informacion/politica/lacalle-eligio-heber-interior-capacidad-politica-falero-ira-transporte-manejo-area.html",
+          "access-date": "2021-05-30",
+          "website": "Diario EL PAIS Uruguay",
+          "language": "spanish",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Family incident and diplomatic repercussions",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "It has been notably alleged by Senator Luis Alberto Héber, who is a son of Cecilia Fontana de Héber, assassinated by person(s) unknown in 1978, that records may show that the US Embassy in Montevideo had knowledge of this tragic incident."
+            },
+            {
+              "text": "According to Senator Héber, his mother was assassinated because of efforts of local secret intelligence circles to preserve in office President Aparicio Méndez, alleged again by Senator Héber to have been a CIA asset.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Aparicio Méndez"
+                }
+              ]
+            },
+            {
+              "text": "Again according to Senator Héber, the US Embassy was playing a 'double game' in 1978, talking human rights but simultaneously working with Uruguayan secret intelligence figures in order to defend President Méndez's position."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2008 US Ambassador to Uruguay Frank E. Baxter was involved in controversial, high level exchanges regarding Uruguayan investigations into Senator Héber's mother's assassination and the allegations which arose from the tragic incident.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Frank E. Baxter"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Politics of Uruguay",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politics of Uruguay"
+              }
+            ]
+          },
+          {
+            "text": "List of political families",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of political families",
+                "anchor": "Uruguay"
+              }
+            ]
+          },
+          {
+            "text": "Frank E. Baxter",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Frank E. Baxter",
+                "anchor": "Admits Mitrione case 'pushback' equivalence in response to Uruguayan assassination investigation"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "uruguay-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Sources"
+          },
+          {
+            "text": ":es:Luis Alberto Heber",
+            "links": [
+              {
+                "text": ":es:Luis Alberto Heber",
+                "type": "internal",
+                "page": ":es:Luis Alberto Heber"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

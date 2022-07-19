@@ -1,0 +1,85 @@
+{
+  "title": "Fernando Mattos Costa",
+  "pageID": 70440027,
+  "categories": [
+    "Living people",
+    "1958 births",
+    "Federal University of Rio Grande do Sul alumni",
+    "Uruguayan agronomists",
+    "Uruguayan businesspeople",
+    "Colorado Party (Uruguay) politicians",
+    "Ministers of Livestock, Agriculture, and Fisheries of Uruguay"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Fernando Mattos Costa (born 9 December 1958 in Montevideo) is a Uruguayan agronomist, businessman and politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Montevideo"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Fernando Mattos Costa"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A member of the Colorado Party, he is the Minister of Livestock, Agriculture, and Fisheries in the cabinet of Luis Lacalle Pou.",
+              "links": [
+                {
+                  "text": "Colorado Party",
+                  "type": "internal",
+                  "page": "Colorado Party (Uruguay)"
+                },
+                {
+                  "text": "Minister of Livestock, Agriculture, and Fisheries",
+                  "type": "internal",
+                  "page": "Ministry of Livestock, Agriculture, and Fisheries (Uruguay)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Luis Lacalle Pou"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.elpais.com.uy/informacion/politica/fernando-mattos-designado-nuevo-ministro-ganaderia.html",
+          "title": "Who is Fernando Mattos",
+          "date": "27 June 2021",
+          "website": "El País",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "uruguay-politician-stub"
+        }
+      ]
+    }
+  ]
+}
